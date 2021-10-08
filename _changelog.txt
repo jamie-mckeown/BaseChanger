@@ -1,0 +1,19 @@
+================
+Tue 28 Sep 2021
+================
+
+-   Tidy directory.
+-   Rename backend to basechange to reflect content of file.
+-   Create class hierachy to combine BaseChange and Window classes, and prevent multiple imports of modules.
+
+
+================
+Thu 29 Jul 2021
+================
+-   Add simple frontend GUI to allow easier conversion.
+-   Convert backend from command-line-based to gui-based.
+
+================
+Mon 21 Dec 2020
+================
+-   Add backend functionality for converting a number (as a string) in base a and returning the number in base b for user choice of b.
